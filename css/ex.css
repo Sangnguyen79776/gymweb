@@ -1,0 +1,21 @@
+h2{
+    text-transform: uppercase;
+    text-align: center;
+   
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+  
+
+}
+.text-block{
+    position: absolute;
+    color: white;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
