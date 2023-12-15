@@ -1,8 +1,12 @@
 A Simple Web App Build By PHP About Gym Management System For Admin Role and User<br><br>
-Admin and User have different login form due to the data stored in database is different compare to each other <br>
-User can be trainer who want to enhance their weight or trainer who want to lost their weight<br>
-user need to assign the information before going to the exercise page<br>
-For each fitness demand : enhance/ lost weight , the webpage will redirect user to the proper homepage when user have assign the information <br>
+Admin and User have different login form due to the data stored in database is different compare to each other 
+padding:10px 10px;
+User can be trainer who want to enhance their weight or trainer who want to lost their weight
+padding:10px 10px;
+user need to assign the information before going to the exercise page
+padding:10px 10px;
+For each fitness demand : enhance/ lost weight , the webpage will redirect user to the proper homepage when user have assign the information 
+padding:10px 10px;
 I.Features of Admin:<br>
 1.Admin can manage all user accounts, fitness equipment, membership card ,exercise ,food (with Add, Delete, Update,View )<br>
 2. Only the existing admin accounts can register a new account for admin role , if someone need to register a new account for admin role, they need to ask the permission from other admin to help them on registering a new account <br><br>
