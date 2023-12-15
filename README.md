@@ -4,9 +4,9 @@ User can be trainer who want to enhance their weight or trainer who want to lost
 user need to assign the information before going to the exercise page<br>
 For each fitness demand : enhance/ lost weight , the webpage will redirect user to the proper homepage when user have assign the information <br>
 I.Features of Admin:<br>
-1.Admin can manage all user accounts, fitness equipment, membership card ,exercise ,food (with Add, Delete, Update)<br>
-2. Only the existing admin accounts can register a new account for admin role , if someone need to register a new account for admin role, they need to ask the permission from other admin to help them on registering a new account 
-
+1.Admin can manage all user accounts, fitness equipment, membership card ,exercise ,food (with Add, Delete, Update,View )<br>
+2. Only the existing admin accounts can register a new account for admin role , if someone need to register a new account for admin role, they need to ask the permission from other admin to help them on registering a new account <br><br>
+padding:10px 10px;
 II. Features of User :<br>
 1.User can calculate the calories intake by a day without no fitness and calories intake per a day with training <br>
 2.User can see the suggestion food for enhance weight or lost weight depend on which fitness demand have assigned into the form<br>
